@@ -1,4 +1,4 @@
-[![Github version](https://badge.fury.io/gh/grandbrain%2Ftweakwp.svg)](https://github.com/Grandbrain/TweakWP/releases)
+[![GitHub release](http://github-release-version.herokuapp.com/github/grandbrain/tweakwp/release.svg?style=flat)](https://github.com/Grandbrain/TweakWP/releases)
 [![GitHub issues](https://img.shields.io/github/issues/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/stargazers)
