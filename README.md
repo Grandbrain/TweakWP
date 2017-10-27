@@ -3,6 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/blob/master/LICENSE)
+[![PayPal donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=social)](https://www.paypal.me/grandbrain)
 
 # Welcome to TweakWP project!
 
