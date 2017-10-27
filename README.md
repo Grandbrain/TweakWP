@@ -1,4 +1,4 @@
-[![GitHub release](http://github-release-version.herokuapp.com/github/grandbrain/tweakwp/release.svg?maxAge=1000)](https://github.com/Grandbrain/TweakWP/releases)
+[![GitHub release](https://img.shields.io/github/release/Grandbrain/TweakWP.svg?colorB=brightgreen)](https://github.com/Grandbrain/TweakWP/releases)
 [![GitHub issues](https://img.shields.io/github/issues/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/stargazers)
