@@ -1,5 +1,8 @@
-[![Release](https://img.shields.io/badge/Release-v1.0.0-brightgreen.svg)](https://github.com/Grandbrain/TweakWP/releases)
-[![Licence](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Grandbrain/TweakWP/blob/master/LICENSE)
+[![Github version](https://badge.fury.io/gh/grandbrain%2Ftweakwp.svg)](https://github.com/Grandbrain/TweakWP/releases)
+[![GitHub issues](https://img.shields.io/github/issues/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Grandbrain/TweakWP.svg)](https://github.com/Grandbrain/TweakWP/blob/master/LICENSE)
 
 # Welcome to TweakWP project!
 
